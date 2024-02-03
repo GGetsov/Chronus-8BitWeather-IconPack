@@ -75,4 +75,4 @@ The project not only provides the files needed for building the apk, but also th
 
 ## Licensing
 
-This project is licensed under the [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html), but i don't recommend creating a consumer product using it due to the heavy use of/ inspiration by material that is not owned me. Thanks again to the contributors of the [Sample_icon_set project](https://github.com/DvTonder/Sample_icon_set) and [thepolovinkin](https://stock.adobe.com/bg/contributor/205400330/thepolovinkin) for all the great work!
+This project is licensed under the [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html), but i don't recommend creating a commercial product using it due to the heavy use of/ inspiration by material that is not owned me. Thanks again to the contributors of the [Sample_icon_set project](https://github.com/DvTonder/Sample_icon_set) and [thepolovinkin](https://stock.adobe.com/bg/contributor/205400330/thepolovinkin) for all the great work!
